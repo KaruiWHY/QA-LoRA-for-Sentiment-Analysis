@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# 忽略输出目录
+eval_results/
+joint-fp16-out/
+lora_w4a8_out/
+lora_w4a8_out_2stage/
+tmp_cache/
+# 忽略模型权重文件
+*.pt
+*.pth
+*.bin
+*.safetensors
