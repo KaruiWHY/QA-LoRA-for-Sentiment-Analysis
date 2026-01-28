@@ -72,4 +72,3 @@ python lora.py --model_name_or_path <model-path> --output_dir <output-path> --ep
 
 **版本**: 1.0.0  
 **更新日期**: 2025-12-09  
-**作者**: LoRA 项目团队
